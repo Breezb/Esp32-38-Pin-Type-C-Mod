@@ -1,4 +1,6 @@
 # Esp32-38-Pin-Type-C-Mod
-- Remixed from some dude on thingiverse
-- All I did was remove the standoffs for the board
-- Widedned the port for print etc
+- Remix of tispokes's case on thingiverse: https://www.thingiverse.com/thing:5361695/files
+- Widened Pins slot
+- Thickened outer perimeter of both for more rigidity
+- Widened Port Hole
+- Cleaned up/removed some stuff from the og model; Buttons, Clips etc,
